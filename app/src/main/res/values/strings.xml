@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GittyProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="Profile_name">mathemandy</string>
+    <string name="try_again_error_message">Try Again</string>
+    <string name="error_in_connection">We Think Google might help You now</string>
+    <string name="username">Username</string>
+    <string name="genre_label">profile_url</string>
+    <string name="textview_label_github">http://www.github.com/</string>
+    <string name="title_activity_details">Profile Details</string>
+</resources>
